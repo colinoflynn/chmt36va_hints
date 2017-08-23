@@ -1,6 +1,6 @@
 # Charmin-High CHMT36VA Notes/Documentation
 
-This repository serves as a resource for various information about the Charmin-High CHMT36VA. Most of this is applicable to other devices (CHMT48VA/B) but I'm concentrating on the CHMT36VA.
+This repository serves as a resource for various information about the Charmin-High CHMT36VA. Most of this is applicable to other devices (CHMT48VA/B) but I'm concentrating on the CHMT36VA. There wasn't a lot of details on the CHMT36VA out there yet, so I was going in a little blind.
 
 ## Why CHMT36VA ##
 
@@ -22,5 +22,6 @@ The camera makes a bounding box around the object based on bright spots it seems
 
 ### IC Devices ###
 
-The default height of 0.5mm (this is somehow related to how low the Z-axis goes when placing, so a higher number means the part is higher) didn't seem as reliable on TQFP placements. I changed this height to about 0.8 (for TQPF64) and it worked very well.
+The default height of 0.5mm (this is somehow related to how low the Z-axis goes when placing, so a higher number means the part is higher) didn't seem as reliable on TQFP placements. I changed this height to about 0.8mm (for TQPF64) and it worked very well, I'm still experimenting and will update this.
 
+It seems the 0.5mm default height smashes the parts into the board - it's fine for 0603 with the somewhat flexible nozzle, as the parts still get placed. I think with the TQFP it flexes down a little and they sometimes shift.
