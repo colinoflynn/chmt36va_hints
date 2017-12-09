@@ -41,3 +41,17 @@ You could probably make a nice fancy holder for this too, but this worked well e
 The maximum part height by the specs is 5mm. This is pretty accurate - you could use my "cut tape hack" from above to pickup deeper parts, but they will possibly hit stuff as the head is moving around, and when it tries to place them down it screws up the head.
 
 You can "probably" get it to work with deeper parts, but I recommend just avoiding them if possible.
+
+### Cover-Tape Doesn't Peel Off ###
+
+The cover-tape sometimes doesn't peel off. This causes the device to not pickup parts, and almost always requires you to have vision enabled so it can detect this.
+
+If everything otherwise seems OK (i.e., not snagged on anything) you can use a small hex driver to tighten the screw on the cover-tape take-up reel, which seems to improve the grip as it may be too lose. Turn it a small amount (1/8-turn to maybe 1/4 a turn) at a time.
+
+### Parts turn upright ###
+
+Small parts may turn up-right. The camera doesn't detect this as doesn't have a 'minimum area' that I can seem to program? Anyway this is often caused as the pick-up location is a tiny bit off, so double-check the pickup location.
+
+### Loading Cut Tape ###
+
+It's worth buying a box of cover tape extenders (the tape that comes on reels). Search "SMT cover extender" on aliexpress.
