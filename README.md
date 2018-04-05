@@ -50,7 +50,7 @@ If everything otherwise seems OK (i.e., not snagged on anything) you can use a s
 
 ### Parts turn upright ###
 
-Small parts may turn up-right. The camera doesn't detect this as doesn't have a 'minimum area' that I can seem to program? Anyway this is often caused as the pick-up location is a tiny bit off, so double-check the pickup location.
+Small parts may turn up-right. If you don't program parts size this won't be detected. Anyway this is often caused as the pick-up location is a tiny bit off, so double-check the pickup location.
 
 ### Loading Cut Tape ###
 
