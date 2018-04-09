@@ -1,6 +1,6 @@
 # THIS REPO IS BEING MERGED/REMOVED
 
-There is a more complete repo at [github.com/sparkfunX/Desktop-PickAndPlace-CHMT36VA](github.com/sparkfunX/Desktop-PickAndPlace-CHMT36VA). The content from this repo has been merged in there, and this repo will not be updated.
+There is a more complete repo at [github.com/sparkfunX/Desktop-PickAndPlace-CHMT36VA](https://github.com/sparkfunX/Desktop-PickAndPlace-CHMT36VA). The content from this repo has been merged in there, and this repo will not be updated.
 
 # Charmin-High CHMT36VA Notes/Documentation
 
